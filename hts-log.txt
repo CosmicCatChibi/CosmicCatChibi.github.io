@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 31 Oct 2022 13:13:49 at https://cosmiccat6652.wixsite.com/cosmic-cat +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://cosmiccat6652.wixsite.com/cosmic-cat -O1 "C:\Mes Sites Web\Cosmic Cat" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/decodeURIComponent(e (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/sitemap.xml (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/feed.xml (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/ (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/version/ (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/da6c52cb.min.css (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/4da3e2b2.min.css (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/99a6a99f.min.css (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/48ba99d1.min.css (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/1a5725ae.chunk.min.js (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/16b3dc89.chunk.min.js (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.cf3aa831.chunk.min.js (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/rb_wixui.thunderbolt~bootstrap.8a86afda.chunk.min.css (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/rb_wixui.thunderbolt~bootstrap.1a5725ae.chunk.min.js (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+13:13:58	Error: 	"Not Found" (404) at link https://cosmiccat6652.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.16b3dc89.chunk.min.js (from https://cosmiccat6652.wixsite.com/cosmic-cat)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 31 links scanned, 14 files written (1169901 bytes overall) [411328 bytes received at 45703 bytes/sec], 1202443 bytes transferred using HTTP compression in 28 files, ratio 30%, 3.8 requests per connection
+(16 errors, 0 warnings, 0 messages)
